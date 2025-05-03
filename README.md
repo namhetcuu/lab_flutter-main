@@ -1,8 +1,8 @@
-# 🚀 Flutter Lab - 10 Mini Apps
+# Flutter Lab - 10 Mini Apps
 
 Đây là tổng hợp 10 bài lab Flutter từ cơ bản đến nâng cao, được thực hiện trong quá trình học Flutter.
 
-## 🧠 Danh sách bài học
+## Danh sách bài học
 
 | Tên Bài        | Mô Tả                                               |
 | -------------- | --------------------------------------------------- |
